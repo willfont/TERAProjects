@@ -4,10 +4,10 @@
 
 ## Textos Tera Transição de Carreira
 
-- [] **Mudar de Carreira é o Novo normal?** https://medium.com/somos-tera/mudar-de-carreira-%C3%A9-o-novo-normal-c931a9003e8d
+- [x] **Mudar de Carreira é o Novo normal?** https://medium.com/somos-tera/mudar-de-carreira-%C3%A9-o-novo-normal-c931a9003e8d
 
 
-- [] **Acolha seus medos, Aprenda com Seus Fracassos** https://medium.com/somos-tera/acolha-seus-medos-aprenda-com-seus-fracassos-83bcfeb3c7ec
+- [x] **Acolha seus medos, Aprenda com Seus Fracassos** https://medium.com/somos-tera/acolha-seus-medos-aprenda-com-seus-fracassos-83bcfeb3c7ec
 
 ### E-books
 
@@ -27,7 +27,7 @@
 
 ## Treinar Pandas com Luba
 
-- [] https://www.lobdata.com.br/2021/10/24/efficient-pandas/
+- [x] https://www.lobdata.com.br/2021/10/24/efficient-pandas/
 
 ## Intro to Seaborn
 
