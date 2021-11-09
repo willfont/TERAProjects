@@ -67,7 +67,7 @@
 
 ## Hypothesis and Stats Concepts (Math Science)
 
-- [] parte-1: https://www.youtube.com/watch?v=KTFm7El1NBs&list=PLnVYEpTNGNtVa489GMepY9mk36VPymhzi
+- [x] parte-1: https://www.youtube.com/watch?v=KTFm7El1NBs&list=PLnVYEpTNGNtVa489GMepY9mk36VPymhzi
 - [] parte-2: https://www.youtube.com/watch?v=80YzzIm8NK8&list=PLnVYEpTNGNtVAmwUo6VmQxw43Z_PouH8o
 - [] parte-3: https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
 - [] parte-4: https://www.youtube.com/watch?v=EOlNb1XXC_M&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z
