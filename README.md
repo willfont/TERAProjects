@@ -29,11 +29,41 @@
 
 - [x] https://www.lobdata.com.br/2021/10/24/efficient-pandas/
 
-## Intro to Seaborn
+---
 
-- [] https://seaborn.pydata.org/introduction.html
+# Praticando com Seaborn
+
+## Introdução
+- [x] https://seaborn.pydata.org/introduction.html
+
+## API Overview
+### Overview of seaborn plotting functions
 - [] https://seaborn.pydata.org/tutorial/function_overview.html
+### Data structures accepted by seaborn
+- [] https://seaborn.pydata.org/tutorial/data_structure.html
 
+## Plot Functions
+### Visualizing statistical relationships
+- [] https://seaborn.pydata.org/tutorial/relational.html
+### Visualizing distributions of data
+- [] https://seaborn.pydata.org/tutorial/distributions.html
+### Plotting with categorical data
+- [] https://seaborn.pydata.org/tutorial/categorical.html
+### Visualizing regression models
+- [] https://seaborn.pydata.org/tutorial/regression.html
+
+
+## Multi-plot grid
+### Building structured multi-plot grids
+- [] https://seaborn.pydata.org/tutorial/axis_grids.html
+
+## Plot aesthetics
+### Controlling figure aesthetics
+- [] https://seaborn.pydata.org/tutorial/aesthetics.html
+### Choosing color palettes
+- [] https://seaborn.pydata.org/tutorial/color_palettes.html
+
+***
 
 ## Hypothesis and Stats Concepts (Math Science)
 
