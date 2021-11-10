@@ -71,15 +71,15 @@
 - [] parte-1: https://www.youtube.com/watch?v=uZZ8ymOajA4&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV
 
 ###         Random Variables and Discrete Probability Distributions
-            - [] parte-1.a.: https://www.youtube.com/watch?v=UnzbuqgU2LE&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV&index=2
+- []        parte-1.a.: https://www.youtube.com/watch?v=UnzbuqgU2LE&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV&index=2
 
 ###         The Normal Probability Distribution
-            - [] parte-1.b.:  https://www.youtube.com/watch?v=gI5y3RZe9fk&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV&index=3
+- []        parte-1.b.:  https://www.youtube.com/watch?v=gI5y3RZe9fk&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV&index=3
 
 ### Vol. 3 Sampling Distributions - Learn Statistical Sampling
-            - [] parte-2.a: https://www.youtube.com/watch?v=EOlNb1XXC_M&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z
+- []        parte-2.a: https://www.youtube.com/watch?v=EOlNb1XXC_M&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z
 ###          What is the Central Limit Theorem in Statistics?
-            - [] parte-2.b: https://www.youtube.com/watch?v=IiV6blF1crE&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z&index=2
+- []        parte-2.b: https://www.youtube.com/watch?v=IiV6blF1crE&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z&index=2
 
 ### Vol. 4 Estimating Population Proportions - Learn Confidence Intervals in Statistics
 - [x] parte-3: https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
