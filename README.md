@@ -67,12 +67,33 @@
 
 ## Hypothesis and Stats Concepts (Math Science)
 
-- [x] parte-1: https://www.youtube.com/watch?v=KTFm7El1NBs&list=PLnVYEpTNGNtVa489GMepY9mk36VPymhzi
-- [] parte-2: https://www.youtube.com/watch?v=80YzzIm8NK8&list=PLnVYEpTNGNtVAmwUo6VmQxw43Z_PouH8o
-- [] parte-3: https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
-- [] parte-4: https://www.youtube.com/watch?v=EOlNb1XXC_M&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z
-- [] parte-5: https://www.youtube.com/watch?v=uZZ8ymOajA4&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV
+### Intro to Vol. 2:
+- [] parte-1: https://www.youtube.com/watch?v=uZZ8ymOajA4&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV
+
+###         Random Variables and Discrete Probability Distributions
+            - [] parte-1.a.: https://www.youtube.com/watch?v=UnzbuqgU2LE&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV&index=2
+
+###         The Normal Probability Distribution
+            - [] parte-1.b.:  https://www.youtube.com/watch?v=gI5y3RZe9fk&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV&index=3
+
+### Vol. 3 Sampling Distributions - Learn Statistical Sampling
+            - [] parte-2.a: https://www.youtube.com/watch?v=EOlNb1XXC_M&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z
+###          What is the Central Limit Theorem in Statistics?
+            - [] parte-2.b: https://www.youtube.com/watch?v=IiV6blF1crE&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z&index=2
+
+### Vol. 4 Estimating Population Proportions - Learn Confidence Intervals in Statistics
+- [x] parte-3: https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
+
+### Vol. 5 Hypothesis Testing For Means & Large Samples
+- [x] parte-4: https://www.youtube.com/watch?v=80YzzIm8NK8&list=PLnVYEpTNGNtVAmwUo6VmQxw43Z_PouH8o
+
+### Vol. 6 Hypothesis Testing - Two Means - Large Independent Samples
+- [x] parte-5: https://www.youtube.com/watch?v=KTFm7El1NBs&list=PLnVYEpTNGNtVa489GMepY9mk36VPymhzi
+
+### Vol. 7 What is the F-Distribution in Statistics?
 - [] parte-6: https://www.youtube.com/watch?v=S8VzUYJjBmw&list=PLnVYEpTNGNtUXq9vJuUCMvfd7jpN3YwMt
+
+### Vol. 8 Learn Scatter Plots in Statistics
 - [] parte-7: https://www.youtube.com/watch?v=ySdGUcyUe8U&list=PLnVYEpTNGNtV1VCPlzhsbJsehEnvmC5bi
 
 ---
