@@ -2,6 +2,12 @@
 
 ## Objetivos
 
+## Ver vídeos e lives do Mário Filho
+
+- [] Dicas para DS Jr. https://medium.com/@eam.avelar/cientista-de-dados-j%C3%BAnior-o-que-preciso-saber-bf9b015324fb
+  - [] Como Colocar um Modelo de Machine Learning em Produção - Live de Data Science #14 https://www.youtube.com/watch?v=1hdZ0AVbQcw
+
+
 ## Textos Tera Transição de Carreira
 
 - [x] **Mudar de Carreira é o Novo normal?** https://medium.com/somos-tera/mudar-de-carreira-%C3%A9-o-novo-normal-c931a9003e8d
